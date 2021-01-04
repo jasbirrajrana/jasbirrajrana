@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣😎
 - 👯 I’m currently looking for an opportunity to work on project 🧑‍🚀
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can't commit myself on github 😛
 
 ### Spotify Playing 🎧
