@@ -44,7 +44,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasbirrajrana&lang_count=10)](https://github.com/jasbirrajrana/github-readme-stats)
 
-<img  alt="Jasbir's Github wakatime" src="src="https://wakatime.com/share/@ce521eb8-dc2a-4369-9808-887d9fddd58f/f4d3c4fa-0c6e-4783-aacd-25df74102616.svg" width="400px"/>
+<figure><embed src="https://wakatime.com/share/@ce521eb8-dc2a-4369-9808-887d9fddd58f/f4d3c4fa-0c6e-4783-aacd-25df74102616.svg"></embed></figure>
 
 [website]: https://jasbirrrajrana.web.app/
 [twitter]: https://twitter.com/JasbiRajRana3
