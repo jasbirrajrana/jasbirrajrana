@@ -40,8 +40,11 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br>
-<br>
+[![Jasbir's github stats](https://github-readme-stats.vercel.app/api?username=jasbirrajrana&show_icons=true?hide=prs,issues&count_private=true?theme=radical)](https://github.com/jasbirrajrana/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasbirrajrana&lang_count=10)](https://github.com/jasbirrajrana/github-readme-stats)
+
+<img  alt="Jasbir's Github wakatime" src="src="https://wakatime.com/share/@ce521eb8-dc2a-4369-9808-887d9fddd58f/f4d3c4fa-0c6e-4783-aacd-25df74102616.svg" width="400px"/>
 
 [website]: https://jasbirrrajrana.web.app/
 [twitter]: https://twitter.com/JasbiRajRana3
