@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning everything 🤣😎
-- 👯 I’m currently looking for an opportunity to work on project 🧑‍🚀
+- 👯 I’m looking to collaborate with other passionate developers. 🧑‍🚀
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can't commit myself on github 😛
 
