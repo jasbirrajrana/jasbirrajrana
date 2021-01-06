@@ -42,10 +42,11 @@
 
 <br>
 </br>
-
+<div align="middle">
 [![Jasbir's github stats](https://github-readme-stats.vercel.app/api?username=jasbirrajrana&show_icons=true?hide=prs,issues&count_private=true?theme=radical)](https://github.com/jasbirrajrana/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasbirrajrana&lang_count=10)](https://github.com/jasbirrajrana/github-readme-stats)
+</div>
 
 [![Jasbir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasbirrajrana)](https://github.com/jasbirrajrana/github-readme-stats)
 
