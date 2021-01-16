@@ -1,6 +1,6 @@
 ### Hi there, I'm Jasbir Raj Rana  👋
 
-[![Website](https://img.shields.io/static/v1?label=Portfolio&message=JASBIRRRAJRANA.WEB.APP&color=red??style=for-the-badge&logo=appveyor)](https://jasbirrrajrana.web.app)
+[![Website](https://img.shields.io/static/v1?label=Portfolio&message=JASBIRRAJRANA.LIVE&color=red??style=for-the-badge&logo=appveyor)](https://jasbirrajrana.live)
 ## I'm a Full stack Developer 🚀
 
 
@@ -51,7 +51,7 @@
 [![Jasbir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasbirrajrana)](https://github.com/jasbirrajrana/github-readme-stats)
 
 
-[website]: https://jasbirrrajrana.web.app/
+[website]: https://jasbirrajrana.live/
 [twitter]: https://twitter.com/JasbiRajRana3
 [instagram]: https://instagram.com/jasbirrajrana_
 [linkedin]: https://www.linkedin.com/in/jasbirrajrana/
