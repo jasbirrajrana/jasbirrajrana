@@ -4,7 +4,7 @@
 ## I'm a Full stack Developer 🚀
 
 
-- 🌱 I’m currently learning everything 🤣😎
+- 🌱 I’m currently Working on REST Api Development ✔
 - 👯 I’m looking to collaborate with other passionate developers. 🧑‍🚀
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can't commit myself on github 😛
