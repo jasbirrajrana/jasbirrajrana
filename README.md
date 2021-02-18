@@ -43,8 +43,6 @@
 <br>
 </br>
 
-[![Jasbir's github stats](https://github-readme-stats.vercel.app/api?username=jasbirrajrana&show_icons=true?hide=prs,issues&count_private=true?theme=radical)](https://github.com/jasbirrajrana/github-readme-stats)
-
 
 [website]: https://jasbirrajrana.live/
 [twitter]: https://twitter.com/JasbiRajRana3
