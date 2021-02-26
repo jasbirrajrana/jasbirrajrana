@@ -11,9 +11,8 @@
 ## I'm a Full stack Developer 🚀
 
 
-- 🌱 I’m currently Working on Backend stuff, Nodejs  ✔
+- 🌱 I’m currently working on backend stuff (Nodejs and express server)✔
 - 👯 I’m looking to collaborate with other passionate developers. 🧑‍🚀
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can't commit myself on github 😛
 
 ### Spotify Playing 🎧
