@@ -7,7 +7,7 @@
  <a href="https://www.buymeacoffee.com/jasbirrajrana" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
-    
+
 ## I'm a Full stack Developer 🚀
 
 - 🌱 I’m currently working with nodejs and REST APIs.✔
@@ -34,9 +34,9 @@
 
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
 
-<a href="https://git-scm.com/" target="_blank"><img src="./assets/mongodb.svg" align="left" alt="git" height='42px'/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="./assets/azure.svg" align="left" alt="git" height='42px'/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="./assets/sass.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://www.mongodb.com//" target="_blank"><img src="./assets/mongodb.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://azure.microsoft.com/en-us//" target="_blank"><img src="./assets/azure.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="./assets/sass.svg" align="left" alt="git" height='42px'/></a>
 
 <br>
 
