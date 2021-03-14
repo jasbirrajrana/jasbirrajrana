@@ -10,7 +10,7 @@
 
 ## I'm a Full stack Developer 🚀
 
-- 🌱 I’m currently working with nodejs and REST APIs.✔
+- 🌱 I’m currently working with nodejs and REST APIs✔
 - 👯 I’m looking to collaborate with other passionate developers. 🧑‍🚀
 - ⚡ Fun fact: I can't commit myself on github 😛
 
