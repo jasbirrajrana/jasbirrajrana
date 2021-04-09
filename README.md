@@ -37,6 +37,8 @@
 <a href="https://www.mongodb.com//" target="_blank"><img src="./assets/mongodb.svg" align="left" alt="git" height='42px'/></a>
 <a href="https://azure.microsoft.com/en-us//" target="_blank"><img src="./assets/azure.svg" align="left" alt="git" height='42px'/></a>
 <a href="https://sass-lang.com/" target="_blank"><img src="./assets/sass.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://graphql.org/" target="_blank"><img src="./assets/GraphQL_Logo.svg" align="left" alt="git" height='42px'/></a>
+
 
 <br>
 
