@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently working with nodejs and REST APIs✔
 - 👯 I’m looking to collaborate with other passionate developers. 🧑‍🚀
-- ⚡ Fun fact: I can't commit myself on github 😛
+- ⚡ Are you thinking something,  share with me we can web it.
 
 ### Spotify Playing 🎧
 
