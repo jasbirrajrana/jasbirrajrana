@@ -2,7 +2,7 @@
 
 <p><a href="https://www.linkedin.com/in/jasbirrajrana/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://www.instagram.com/jasbirrajrana_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
-<p><a href="https://jasbirrajrana.live">➡️ Check out my website</a></p>
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://jasbirrajrana.live)
 
  <a href="https://www.buymeacoffee.com/jasbirrajrana" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
