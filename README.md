@@ -11,11 +11,7 @@
 ## I'm a Full stack Developer 🚀
 
 - 👯 I’m looking to collaborate with other passionate developers. 🧑‍🚀
-- ⚡ Are you thinking something,  share with me we can web it.
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/7qZlvp1F537sdjGdIB7R4j?si=gK4ZJOZWTZu9Ul_po-STlQ)
+- ⚡ Are you thinking something,  share with me we can web/App it.
 
 ### 🔨 Languages and Tools:
 
